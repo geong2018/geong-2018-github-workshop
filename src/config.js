@@ -3,7 +3,7 @@ var CartONG = {};
 CartONG.config = {};
 
 CartONG.config.content = {
-  header: 'GeOnG 2018',
+  header: 'GeOnG 2018 test',
   subHeader: 'Github Workshop',
   description: 'Get started with Github',
   source: 'https://photon.komoot.de/'
